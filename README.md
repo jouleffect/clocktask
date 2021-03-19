@@ -1,2 +1,2 @@
-# clocktask
+# ClockTask
 Freelance Tool
