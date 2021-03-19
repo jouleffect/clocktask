@@ -1,9 +1,13 @@
 # ClockTask
 Freelance Tool
 
-R.A.D. included in PDF File.
+R.A.D. included in PDF File, with link to class diagram images.
+
 Source code into the /src folder.
+
 JavaDoc Included
+
+
 
 How to use:
 
