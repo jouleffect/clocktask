@@ -5,7 +5,7 @@ R.A.D. included in PDF File, with link to class diagram images.
 
 Source code into the /src folder.
 
-JavaDoc Included
+JavaDoc Included.
 
 
 
