@@ -1,15 +1,15 @@
 #   ⏱️ ClockTask 📝
 ### Freelance Tool
 
-R.A.D. included in PDF File, with link to class diagram images.
+This project has been realized for the course of advanced java of University of Palermo
+The repository include:
 
-Source code into the /src folder.
+📄 R.A.D. in PDF File.
+📈 Class Diagram images
+🔨 Source code + Java classes in /arc folder
+📚 JavaDoc
 
-JavaDoc Included.
-
-
-
-How to use:
+### How to use:
 
 1) Download the .zip from repo.
 2) estract it to a folder.
