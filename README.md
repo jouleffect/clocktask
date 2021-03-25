@@ -8,7 +8,7 @@ The repository include:
 
 📈 Class Diagram images
 
-🔨 Source code + Java classes in /arc folder
+🔨 Source code + Java classes
 
 📚 JavaDoc
 
