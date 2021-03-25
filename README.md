@@ -1,12 +1,15 @@
 #   ⏱️ ClockTask 📝
-### Freelance Tool
+## Freelance Tool
 
 This project has been realized for the course of advanced java of University of Palermo
 The repository include:
 
 📄 R.A.D. in PDF File.
+
 📈 Class Diagram images
+
 🔨 Source code + Java classes in /arc folder
+
 📚 JavaDoc
 
 ### How to use:
