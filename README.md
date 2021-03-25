@@ -16,6 +16,3 @@ How to use:
 3) go to /ClockTask dir and double click ClockTask.jar
 
 The program will start opening this window:
-
-
-![a](https://user-images.githubusercontent.com/53179989/111785246-a21d7200-88bc-11eb-91c2-300657a2af33.jpg)
