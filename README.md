@@ -5,7 +5,7 @@ This project has been realized for the advanced Java course, hold at the Univers
 
 The repository includes:
 
-📄 R.A.D. in PDF File.
+📄 R.A.D. in PDF File in Italian language.
 
 📈 Class Diagram images
 
