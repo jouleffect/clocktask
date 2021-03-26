@@ -1,8 +1,9 @@
 #   ⏱️ ClockTask 🖥️
 ## Freelance Tool
 
-This project has been realized for the course of advanced java of University of Palermo
-The repository include:
+This project has been realized for the advanced Java course, hold at the University of Palermo.
+
+The repository includes:
 
 📄 R.A.D. in PDF File.
 
