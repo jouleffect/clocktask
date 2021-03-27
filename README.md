@@ -21,4 +21,4 @@ The repository includes:
 
 The program will start opening this window:
 
-![Schermata da 2021-03-27 17-12-46](https://user-images.githubusercontent.com/53179989/112726850-bd712880-8f1f-11eb-852e-a1444bd1e75b.png)
+![Schermata da 2021-03-27 17-12-46](https://user-images.githubusercontent.com/53179989/112726886-f14c4e00-8f1f-11eb-87c8-3135a395e8bb.png)
