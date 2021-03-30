@@ -25,6 +25,7 @@ The program will start opening this window:
 
 ### Building instructions:
 
-1) From source code in Intellij IDE, run Build/Build artifacts to generate .jar file.
-2) In a shell, go to the project path and run the command: "zip -d ClockTask.jar  'META-INF/.SF' 'META-INF/.RSA' 'META-INF/*SF'".
-3) Finally, run the command "java -jar ClockTask.jar" to start the program.
+1) Estract the ClockTask folder from the repository and open it on Intellij IDE as a Project.
+2) From source code, run Build/Build artifacts to generate .jar file.
+3) In a shell, go to the project path and run the command: "zip -d ClockTask.jar  'META-INF/.SF' 'META-INF/.RSA' 'META-INF/*SF'".
+4) Finally, run the command "java -jar ClockTask.jar" to start the program.
