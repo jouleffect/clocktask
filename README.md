@@ -9,7 +9,7 @@ The repository includes:
 
 📈 Class Diagram images
 
-🔨 Source code + Java classes
+🔨 Source code + Java classes (ClockTask folder)
 
 📚 JavaDoc
 
